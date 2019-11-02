@@ -4,6 +4,9 @@ print('...paper...')
 print('...scissors...')
 
 player1 = input('(Player 1 choice : )')
+#Anti cheat sistem
+print('>>>No Cheating<<<\n'*100)
+
 player2 = input('(Player 2 choice : )')
 
 
@@ -20,5 +23,6 @@ elif player1 == player2:
 	print('It is a tie!')
 else :
 	print('Something went wrong!')
+
 
 
