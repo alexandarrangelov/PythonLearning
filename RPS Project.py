@@ -4,7 +4,7 @@ print('...paper...')
 print('...scissors...')
 
 player1 = input('(Player 1 choice : )')
-#Anti cheat sistem
+#Anti cheat system
 print('>>>No Cheating<<<\n'*100)
 
 player2 = input('(Player 2 choice : )')
