@@ -22,15 +22,3 @@ else :
 	print('Something went wrong!')
 
 
-#       1.rock-scissors ->rock
-#		2.rock-paper ->paper
-#		3.rock-scissors ->rock
-#		4.paper-scissors
-#
-#
-#
-#
-#
-#
-#
-#
